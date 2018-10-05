@@ -32,3 +32,16 @@ section ~ section {
 .hidden {
   color: white
 }
+
+.agents {
+  color: gray;
+  list-style: square;
+  font-style: oblique;
+  font-weight: 900;
+}
+
+.title {
+  color: darkred;
+  font-style: oblique;
+  font-weight: 900;
+}
