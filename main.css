@@ -24,7 +24,7 @@ section + section {
 */
 section ~ section {
   margin: 10px 0 10px 0;
-
+}
 .projdesc {
   font-style: oblique;
 }
